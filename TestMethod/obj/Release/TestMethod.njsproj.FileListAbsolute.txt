@@ -1,0 +1,3 @@
+C:\Users\Ajith\source\repos\TestMethod\TestMethod\obj\Release\TestMethod.njsprojAssemblyReference.cache
+C:\Users\Ajith\source\repos\TestMethod\TestMethod\obj\Release\TestMethod.njsproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\TestMethod\TestMethod\bin\Microsoft.NodejsTools.WebRole.dll

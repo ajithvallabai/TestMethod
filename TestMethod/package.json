@@ -1,0 +1,13 @@
+{
+    "name": "test-method",
+    "version": "0.0.0",
+    "description": "TestMethod",
+    "main": "app.js",
+    "author": {
+        "name": ""
+    },
+    "scripts": {
+        "prebuild": "echo hey prebuild > timprebuild.txt",
+        "build": "echo hey build `> tim.txt "
+    }
+}
